@@ -1,5 +1,8 @@
 _repo: The-Lost-World_139
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -20,6 +23,8 @@ description: "The Lost World is a novel released in 1912 by Sir Arthur Conan Doy
   \ 1912. The character of Professor Challenger was introduced in this book. The novel\
   \ also describes a war between indigenous people and a vicious tribe of ape-like\
   \ creatures.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/139#The-Lost-World
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '1994-06-01'
 gutenberg_type: Text
